@@ -1,16 +1,19 @@
-## Hi there 👋
+# D4C
 
-<!--
-**D4C-1847/D4C-1847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td width="220">
+      <img src="https://github.com/user-attachments/assets/bf9f476f-c2b2-4fbb-a6c7-ac762c490367" alt="funny-valentine" width="200"/>
+    </td>
+    <td>
+      <h3>Hello! 👋<br>
+      Welcome to the D4C profile.</h3>
+      <p>
+        Here you’ll find projects, ideas, and much more related to development and technology.<br>
+        Feel free to explore the repositories and contribute.
+      </p>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
